@@ -1,6 +1,6 @@
 # SQLAlchemy ORM
 
-# COde from : https://www.youtube.com/watch?v=51RpDZKShiw
+# Code from : https://www.youtube.com/watch?v=51RpDZKShiw
 
 from sqlalchemy import create_engine
 
